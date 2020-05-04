@@ -4,4 +4,17 @@ body {
 
 footer  {
     padding-top: 20px;
+} 
+
+li {
+    list-style-type: none;
+} 
+
+.card {
+    margin-bottom:1.5em; 
+    border-top: 4px solid rgb (20,138,71);
+} 
+
+.card-subtitle {
+    margin-top: 1em; 
 }
